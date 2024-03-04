@@ -3,5 +3,6 @@
 }
 
 .logo{
-    display: flex-direction;
+    display: flex;
+    flex-direction: row;
 }
